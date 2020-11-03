@@ -1,4 +1,4 @@
-# <span style="color: darkred">Personality</span> - Lesson 1
+# <font color="darkred">Personality</font> - Lesson 1
 
 
 
@@ -70,7 +70,7 @@
 
 **Using two adjectives together**
 
-> We often use two adjectives together (without <span style="color: darkred">**and**</span>) to describe hair or eyes, e.g., She has **long curly** hair or He has **big brown** eyes.
+> We often use two adjectives together (without <font color="darkred">**and**</font>) to describe hair or eyes, e.g., She has **long curly** hair or He has **big brown** eyes.
 
 >  Adjectives go in this order: **determiner (a/an/the) size > style > colour** noun.
 
@@ -90,7 +90,7 @@
 >
 > I work most days. The office is far, but I **do** walk more than going by bus.
 
-**We can <span style="color: darkred">tell a story in the present even it happened in the past.</span>**
+**We can <font color="darkred">tell a story in the present even it happened in the past.</font>**
 
 _We do the same in Russian._
 
@@ -98,27 +98,27 @@ _We do the same in Russian._
 
 
 
-**<span style="color: darkred">It is time for + NOUN</span>**
+**<font color="darkred">It is time for + NOUN</font>**
 
 > It’s time for lunch.
 > It’s time for more concreate actions.
 
-**<span style="color: darkred">It is time for + OBJECT + to V1</span>**
+**<font color="darkred">It is time for + OBJECT + to V1</font>**
 
 > It’s time for us to have lunch.
 > It’s time for him to clean up.
 
-**<span style="color: darkred">It is time + to V1 (when it’s clear from the context who we are talking about)</span>**
+**<font color="darkred">It is time + to V1 (when it’s clear from the context who we are talking about)</font>**
 
 > It’s time to start jogging.
 > It’s time to help them.
 
-**<span style="color: darkred">It’s time + SUBJECT + Past Particle</span>**
+**<font color="darkred">It’s time + SUBJECT + Past Particle</font>**
 
 > It’s time I went home.
 > It’s time they bought a new house.
 
-**<span style="color: darkred">It is high time + SUBJECT + Past Particle (when criticizing, or when we are not satisfied by somebody)</span>**
+**<font color="darkred">It is high time + SUBJECT + Past Particle (when criticizing, or when we are not satisfied by somebody)</font>**
 
 > It’s high time he found a job.
 > It’s high time they apologized to us.
@@ -136,7 +136,7 @@ _We do the same in Russian._
 
 
 > I like men who are into literature and art, and classical music.
-> are into **<span style="color: darkred">=</span>** interested in
+> are into **<font color="darkred">=</font>** interested in
 
 > My mother has known me for longer!
 
