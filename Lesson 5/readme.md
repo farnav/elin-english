@@ -7,8 +7,6 @@
 - [**Vocabulary**](#vocabulary)
 - [**Grammar**](#grammar)
 - [**Writing**](#writing)
-- [**Song**](#song)
-- [**Homework**](#homework)
 
 
 
