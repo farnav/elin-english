@@ -6,9 +6,6 @@
 
 - [**Vocabulary**](#vocabulary)
 - [**Grammar**](#grammar)
-- [**Speaking**](#speaking)
-- [**Song**](#song)
-- [**Homework**](#homework)
 
 
 
