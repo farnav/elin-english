@@ -30,7 +30,7 @@ To be **in a hurry**
 
 ### Grammar <a name="grammar"></a>
 
-
+Мини пауза при отрицании: I can (пауза) do that. = I can't do that.
 
 #### <span style="color: darkred">Time sequencers</span>
 
@@ -240,6 +240,26 @@ To be **in a hurry**
    > I’m taking the red eye to NY tomorrow // Я лечу ночным рейсом в Нью-Йорк завтра 
 
 
+
+- worthy [ˈwəːði] - достойный
+- after cooking, I had dinner 
+- doing laundry
+- beauty is pain
+- plinth [plɪnθ] - плинтус
+- tray [treɪ] - лоток, поднос
+- accuracy [ˈakjʊrəsi] - точность (the quality or state of being correct or precise.)
+- fluent [ˈfluːənt] - свободно (able to express oneself easily and articulately.)
+- What can it lead to - к чему это может привести.
+- Here it is
+- life-size 
+- to restrict [rɪˈstrɪkt] - ограничивать
+- Nowdays (without in)
+- hold the meeting / hold the tour
+- drought [draʊt] - засуха
+- flood [flʌd] - наводнение
+- humid [ˈhjuːmɪd] - влажный
+- find ourselves
+- St. = saint
 
 
 
