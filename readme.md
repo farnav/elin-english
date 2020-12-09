@@ -28,6 +28,8 @@
 4. [**Kissing traditions**](https://github.com/farukh-narzullaev/elin-english/tree/master/Lesson-11)
 5. [**Thanksgiving**](https://github.com/farukh-narzullaev/elin-english/tree/master/Lesson-12)
 6. [**At the restaurant**](https://github.com/farukh-narzullaev/elin-english/tree/master/Lesson-13)
+7. [**The most dangerous road**](https://github.com/farukh-narzullaev/elin-english/tree/master/Lesson-14)
+8. [**The World's Youngest Billionaire**](https://github.com/farukh-narzullaev/elin-english/tree/master/Lesson-15)
 
 
 
